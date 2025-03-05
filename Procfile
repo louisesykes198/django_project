@@ -1,1 +1,1 @@
-web: gunicorn DJANGO_PROJECT.wsgi
+web: gunicorn my_project.wsgi
